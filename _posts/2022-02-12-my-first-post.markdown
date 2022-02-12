@@ -10,4 +10,4 @@ Yay!
 
 It works!
 
-![image](https://github.com/missm00na/missm00na.github.io/blob/master/assets/dave.png)
+![image](https://missm00na.github.io/assets/dave.png)
